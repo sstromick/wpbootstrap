@@ -1,0 +1,14 @@
+/*
+Theme Name: WP Bootstrap
+Theme URI: http://stevenstromick.com
+Description: A starter theme built with the Bootstrap framework.
+Author: Steven Stromick
+Author URI: http://stevenstromick.com/
+Version: 1.0
+Tags: responsive, white, bootstrap
+*/
+
+/* Create space at top of page for navbar */
+#wrap > .container {
+	padding: 60px 15px 0;
+}
